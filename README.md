@@ -1,4 +1,4 @@
-# minimart # SKE Restaurant
+# Minimart
  by Kotchanat Yaso and Sdith Meesat
 
  MINI MART
