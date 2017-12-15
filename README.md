@@ -12,7 +12,8 @@
 4.Detailed description : 
 
   - Our application customers can select item that you want to buy from our list.
-
+  
+  - Warning menu can pop up in two way. 1. select item but dont add how many do you want 2. cilck minus sign but you dont select item
 
   - Also the our application can 
                     
