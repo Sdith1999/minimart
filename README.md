@@ -26,18 +26,3 @@
         
              -    User comfortable to buy things.
              -    Improve our skill about writing program.
--build commma for sum more than 999
-
-DecimalFormat df = new DecimalFormat("#,###.00");
-
- public void mouseClicked(java.awt.event.MouseEvent evt) {// keep your line your select 
-                tbMouseClicked(evt);
-            }
-        });
-        jScrollPane1.setViewportView(tb);
-        if (tb.getColumnModel().getColumnCount() > 0) {
-            tb.getColumnModel().getColumn(0).setResizable(false);
-            tb.getColumnModel().getColumn(1).setResizable(false);
-            tb.getColumnModel().getColumn(2).setResizable(false);
-            tb.getColumnModel().getColumn(3).setResizable(false);
-        }
