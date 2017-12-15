@@ -18,5 +18,6 @@
                      When our customers want to check bill. Our application can calculate summary and                                                                                         show it on screen.
         Receipt from this application      
              -    User comfortable to buy things.
-             -     Improve our skill about writing program.
+             
+             -    Improve our skill about writing program.
 
