@@ -26,8 +26,9 @@
         
              -    User comfortable to buy things.
              -    Improve our skill about writing program.
+-build commma for sum more than 999
 
-DecimalFormat df = new DecimalFormat("#,###.00");//build commma for sum more than 999
+DecimalFormat df = new DecimalFormat("#,###.00");
 
  public void mouseClicked(java.awt.event.MouseEvent evt) {// keep your line your select 
                 tbMouseClicked(evt);
